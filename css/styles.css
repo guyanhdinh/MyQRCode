@@ -1,0 +1,56 @@
+body, html {
+    height: 100%;
+    width: 100%;  
+    text-align: center;
+}
+
+.attribution {
+    font-size: 16px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none; 
+    text-shadow: .5px .5px rgb(85, 85, 216);
+}
+
+.attribution a:hover {
+    color: rgb(1, 1, 147);
+
+}
+
+img {
+    padding: 10px 10px;
+    border-radius: 20px;
+ }
+
+.card {
+    width: 14rem;
+    margin: auto;
+ }
+
+.container { padding-top: 80px; }
+
+.bg {
+    background-color: hsl(212, 45%, 89%);
+    height: 100%; 
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+.big-text {
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+ }
+
+.small-text {
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(115, 115, 115);
+ }
